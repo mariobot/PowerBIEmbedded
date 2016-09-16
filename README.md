@@ -9,11 +9,17 @@ This sample MVC web app shows you how to use the Power BI Embedded API to integr
 
 About the first example make by dava developer i make the integration for my example
 
+https://github.com/mariobot/PowerBIEmbedded/blob/master/Example1.png
+
+https://github.com/mariobot/PowerBIEmbedded/blob/master/Example2.png
+
 You can se the documentation of project in the next url. 
 https://azure.microsoft.com/en-us/documentation/articles/power-bi-embedded-what-is-power-bi-embedded/
 
 For more information about my profile and experience you can check
+
 https://branded.me/mariobot
+
 https://www.linkedin.com/in/mariobot
 
 ## Power BI CLI
